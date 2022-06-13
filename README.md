@@ -1,5 +1,8 @@
 # OsderdaClient - *A Osderda UI.*
-
+Osderda client
+Osderda client download
+osderda planet client
+-
 Bir Osderda içerik windows arayüzü.  Yapılan yazılımları hızlıca pc kurmaya ve
 çalıştırmaya sağlar.
 
