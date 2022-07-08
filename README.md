@@ -17,4 +17,4 @@ Yazılımda otomatik güncellemeye sahiptir, güncelleme gelmesi için yazılım
 <p1></p1>
   </body>
   
-İndir(Download): [İNDİR RAR - 19,5 MB](https://github.com/Osderda/osderdaClient/releases/download/1.6.2.3/OClient.zip)
+İndir(Download): [İNDİR RAR - 41.6 MB](https://github.com/Osderda/osderdaClient/releases/download/1.6.2.3/OClient.zip)
