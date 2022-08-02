@@ -13,8 +13,12 @@ Kullanıcı hesapları [yalcin.pvp9.net](https://yalcin.pvp9.net) bağlıdır, g
 
 Yazılımda otomatik güncellemeye sahiptir, güncelleme gelmesi için yazılımı açık tutun.
 <body>
-<img src="https://user-images.githubusercontent.com/68977883/159547327-02912b08-2a3f-44aa-b1ff-bb15cf909cea.png" alt="OClient" width="600"/>
+<img src="https://user-images.githubusercontent.com/68977883/159547327-02912b08-2a3f-44aa-b1ff-bb15cf909cea.png" alt="OClient" width="500"/>
 <p1></p1>
   </body>
-  
+
+EULA sözleşmesi: [EULA-TR](https://yalcin.pvp9.net/OsderdaClient/EULA-TR.html) || [EULA-EN](https://yalcin.pvp9.net/OsderdaClient/EULA-EN.html)
+
+Not: Osderda Planet veya Osderda Client yazılımını bilgisayarınız da bulundurduğunuz da bu EULA sözleşmesini kabul ediyorsunuz. 
+
 İndir(Download): [İNDİR RAR - 41.6 MB](https://github.com/Osderda/osderdaClient/releases/download/1.6.2.3/OClient.zip)
