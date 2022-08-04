@@ -21,4 +21,4 @@ EULA sözleşmesi: [EULA-TR](https://yalcin.pvp9.net/OsderdaClient/EULA-TR.html)
 
 Not: Osderda Planet veya Osderda Client yazılımını bilgisayarınız da bulundurduğunuz da bu EULA sözleşmesini kabul ediyorsunuz. 
 
-İndir(Download): [İNDİR RAR - 41.6 MB](https://github.com/Osderda/osderdaClient/releases/download/1.6.2.3/OClient.zip)
+İndir(Download): [İNDİR ZIP - 20.6 MB](https://github.com/Osderda/osderdaClient/releases/download/1.6.8.0/OsderdaClient.zip)
